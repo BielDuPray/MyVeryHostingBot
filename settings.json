@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "Sobrevivenciaserver.aternos.me",
+    "port": 50718,
     "version": "",
     "try-creative": false
   },
